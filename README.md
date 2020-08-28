@@ -1,5 +1,6 @@
 * I will be showing only 20 cities which were rated as "Top 20 Best Tech Cities for IT Jobs" by CompTIA
-* Where do I get these numbers? - I just search for SWE jobs on LinkedIn and select Past 24 hours, 50 miles Filters. 
+* **What are these numbers?** - These numbers are number of new job listing posted on LinkedIn on that certain date.
+* **How do I get these numbers?** - I just search for SWE jobs on LinkedIn and select Past 24 hours + 50 miles Filters. 
 * I will try to post new numbers every day
 
 |  | City, State | Aug 28 |
